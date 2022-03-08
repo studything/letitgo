@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/studything/followus",
-  "repository": "https://github.com/studything/followus",
+  "website": "https://github.com/studything/letitgo",
+  "repository": "https://github.com/studything/letitgo",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
